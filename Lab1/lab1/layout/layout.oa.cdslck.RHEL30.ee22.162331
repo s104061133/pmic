@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      pmic025
+HostName                       ee22
+ProcessIdentifier              162331
+ProcessCreationTime_UTC        1690340171
+ProcessCreationTime_Readable   Wed Jul 26 10:56:11 2023 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /RAID2/COURSE/pmic/pmic025/UM180FDKMFC_C05_PB/Lab1/lab1/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Wed Jul 26 10:57:43 2023 CST
