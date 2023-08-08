@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      pmic025
 HostName                       ee28
-ProcessIdentifier              138932
-ProcessCreationTime_UTC        1691479450
-ProcessCreationTime_Readable   Tue Aug  8 15:24:10 2023 CST
+ProcessIdentifier              224409
+ProcessCreationTime_UTC        1691497302
+ProcessCreationTime_Readable   Tue Aug  8 20:21:42 2023 CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /RAID2/COURSE/pmic/pmic025/UM180FDKMFC_C05_PB/Lab3/buck_converter_pmos_lvs/layout/layout.oa.cdslck
-TimeEditLocked                 Tue Aug  8 16:40:16 2023 CST
+FilePathUsedToEditLock         /RAID2/COURSE/pmic/pmic025/UM180FDKMFC_C05_PB/Lab3/buck_converter_pmos_lvs/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Tue Aug  8 20:26:52 2023 CST
