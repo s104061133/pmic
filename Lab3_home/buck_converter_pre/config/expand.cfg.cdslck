@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      pmic025
+HostName                       ee28
+ProcessIdentifier              219438
+ProcessCreationTime_UTC        1691769997
+ProcessCreationTime_Readable   Sat Aug 12 00:06:37 2023 CST
+AppIdentifier                  /usr/cad/cadence/IC/IC_06.18.250/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       Not specified
+FilePathUsedToEditLock         /RAID2/COURSE/pmic/pmic025/UM180FDKMFC_C05_PB/Lab3_home/buck_converter_pre/config/expand.cfg
+TimeEditLocked                 Sat Aug 12 03:02:10 2023 CST
